@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/vamshidharreddyroopreddy/Desktop/task/build/cloud_firestore/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/vamshidharreddyroopreddy/.gradle/caches/transforms-2/files-2.1/93131e36cbd141853f280b19c75d4cd9/play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/vamshidharreddyroopreddy/Desktop/task/build/cloud_firestore/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/vamshidharreddyroopreddy/.gradle/caches/transforms-2/files-2.1/93131e36cbd141853f280b19c75d4cd9/play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/vamshidharreddyroopreddy/Desktop/task/build/cloud_firestore/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/vamshidharreddyroopreddy/.gradle/caches/transforms-2/files-2.1/93131e36cbd141853f280b19c75d4cd9/play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

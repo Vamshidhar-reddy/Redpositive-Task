@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620241593664",
+    "firebase_url": "https://redpositive-b570b.firebaseio.com",
+    "project_id": "redpositive-b570b",
+    "storage_bucket": "redpositive-b570b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620241593664:android:e11cdf2d6af5fd65fe86a5",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620241593664-4pusubupn037dccturhcor0g0h7stt3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task",
+            "certificate_hash": "ef266008646c1e5978729bf4343a16d54a72782e"
+          }
+        },
+        {
+          "client_id": "620241593664-flfetfr0hmi4tq1t93sfjfrcn7am54jp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHgMW4lNxpN2JWZVTuSlA12eapauwUCpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620241593664-flfetfr0hmi4tq1t93sfjfrcn7am54jp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
